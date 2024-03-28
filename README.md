@@ -16,7 +16,8 @@
 
 -⚡ I firmly believe that learning is not just a skill but an invaluable asset for shaping a successful future.
 
--📫 Let's connect! Reach out to me at 📧 rifahadmt202@gmail.com or find me on 💼 LinkedIn: linkedin.com/in/rifahad-undefined-4a4898286.
+-📫 Let's connect! Reach out to me at 📧 rifahadmt202@gmail.com
+💼linkedin.com/in/rifahad-undefined-4a4898286.
 
 "Every experience in life is a lesson; embrace it and grow."
                                                          - Rt-maX
