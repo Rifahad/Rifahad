@@ -21,9 +21,6 @@
 
 "Every experience in life is a lesson; embrace it and grow."
                                                          - Rt-maX
-💼 Technical Skills
-![image](https://github.com/Rifahad/Rifahad/assets/155215925/c253c839-b604-4f16-9618-c6c19b9bacbd)
-
 
 <!---
 Rifahad/Rifahad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
