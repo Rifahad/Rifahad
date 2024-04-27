@@ -1,3 +1,5 @@
+  <img src="./gitbanner.png" alt="" srcset="">
+
 -👋 Hey there! I'm @Rifahad, a passionate web developer.
 
 -👀 Passionate about web development and constantly striving to expand my skills and knowledge.
