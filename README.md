@@ -16,7 +16,7 @@
 <p align="left">860 679 0330
 </p>
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 
 "Every experience in life is a lesson; embrace it and grow."
                                                          - Rt-maX
