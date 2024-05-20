@@ -1,5 +1,12 @@
   <img src="./gitbanner.png" alt="" srcset="">
-
+🌐 Socials:
+<div align='center'> 
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/rifahad-mt-4a4898286"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="[https://twitter.com/eeht1717](https://www.instagram.com/rifah_ad/)"><img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="mailto:rifahadmt202@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  </p>
+</div>
 -👋 Hey there! I'm @Rifahad, a passionate web developer.
 
 -👀 Passionate about web development and constantly striving to expand my skills and knowledge.
@@ -21,9 +28,6 @@
 "Every experience in life is a lesson; embrace it and grow."
                                                          - Rt-maX
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rifah_ad/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rifahad-undefined-4a4898286/) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rifahad&theme=dark&hide_border=false)<br/>
